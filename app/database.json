@@ -1,0 +1,34 @@
+{
+  "Drink": {
+    "01": {
+      "name": "Tea Lychee",
+      "price": "2.0",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2020/TRATHACHVAI_1.png"
+    },
+    "02": {
+      "name": "Tea Peach",
+      "price": "2.0",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/03_2018/thumbs/270_crop_TRATHANHDAO.png"
+    },
+    "03": {
+      "name": "Tea Lotus",
+      "price": "2.0",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/03_2018/thumbs/270_crop_TRASENVANG.png"
+    },
+    "04": {
+      "name": "Ice Bac Xiu",
+      "price": "2.0",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2020/thumbs/270_crop_Bac_Xiu_Da.png"
+    },
+    "05": {
+      "name": "Coffe Black",
+      "price": "2.0",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/05_2018/thumbs/270_crop_CFD.png"
+    },
+    "06": {
+      "name": "Coffe Milk",
+      "price": "2.0",
+      "image": "https://www.highlandscoffee.com.vn/vnt_upload/product/03_2018/thumbs/270_crop_PHIN-SUA-DA.png"
+    }
+  }
+}

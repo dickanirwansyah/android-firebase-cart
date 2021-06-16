@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "196377444507",
+    "firebase_url": "https://notification-c1205-default-rtdb.firebaseio.com",
+    "project_id": "notification-c1205",
+    "storage_bucket": "notification-c1205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196377444507:android:beacb679f2f0e22cf2863e",
+        "android_client_info": {
+          "package_name": "id.dicka.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196377444507-5oj8mkfdp5gohtnuiee6c1h6c1hq0v51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxTDTNxGFMvWrFj8wrjNOa8aYFmvasfC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196377444507-5oj8mkfdp5gohtnuiee6c1h6c1hq0v51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196377444507:android:b5fa851a6c288002f2863e",
+        "android_client_info": {
+          "package_name": "id.dicka.shoppingcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196377444507-5oj8mkfdp5gohtnuiee6c1h6c1hq0v51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxTDTNxGFMvWrFj8wrjNOa8aYFmvasfC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196377444507-5oj8mkfdp5gohtnuiee6c1h6c1hq0v51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
